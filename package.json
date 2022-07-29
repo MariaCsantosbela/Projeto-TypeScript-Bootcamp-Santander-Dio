@@ -1,0 +1,16 @@
+{
+  "name": "projeto-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo/Error: no test specifind/ && edit 1"
+  
+  },
+  "author": "",
+  "license": "ISC",
+
+  "dependencies": {
+    "pkg": "^5.8.0"
+  }
+}
